@@ -1,4 +1,4 @@
-# SnakeGameInC
+# Snake Game In C
 
 ## Final Assignment for Unix and C Programming
 
